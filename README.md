@@ -1,3 +1,6 @@
 # Framer 연습하기
 
-1. Align 케이스별로 보기
+1. Align types
+
+2. Trying to make click event
+
