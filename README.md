@@ -4,3 +4,6 @@
 
 2. Trying to make click event
 
+3. Practice layer style 
+ - including text style practice
+
