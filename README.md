@@ -7,3 +7,5 @@
 3. Practice layer style 
  - including text style practice
 
+4. Layout example and First animations
+
