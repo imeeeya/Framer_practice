@@ -12,3 +12,4 @@
 5. Animation example
 
 6. State
+ - state example : on/off states
