@@ -41,6 +41,19 @@ animation1 = ->
 #Start function	
 animation1();
 
+psd.text_welcome.states =
+	on : opacity : 1
+	off : opacity : 0
+	
+psd.text_welcome.onTap ->
+	psd.text_welcome.states.next("on", "off")
+	
+psd.text_welcome.states.animationOptions =
+	curve : "spring(300,20,0)"
+
+	
+	
+
 
 
 		
