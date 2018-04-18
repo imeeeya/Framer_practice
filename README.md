@@ -13,3 +13,15 @@
 
 6. State
  - state example : on/off states
+
+7. Drag practice
+ - draggable.enable = true/false
+ - draggable.horizontal = true/false
+ - draggable.vertical = true/false
+ - draggable.speedX = NUMBER
+ - draggable.constraints = set width, height, x, y
+ - draggable.bounce = true/false
+ - draggable.directionLock = true/false
+ - onDrag -> if ~ is, else if ~ is
+ - draggable.propagateEvents = true/false
+
