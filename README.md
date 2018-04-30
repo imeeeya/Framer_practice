@@ -25,3 +25,6 @@
  - onDrag -> if ~ is, else if ~ is
  - draggable.propagateEvents = true/false
 
+8. Drag example
+ - draggable.bounceOption = Tension/Friction/Tolerance
+ - draggable.momentumOption = Friction;/Tolerance
