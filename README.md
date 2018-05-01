@@ -28,3 +28,17 @@
 8. Drag example
  - draggable.bounceOption = Tension/Friction/Tolerance
  - draggable.momentumOption = Friction;/Tolerance
+
+9. Scroll
+ - include scroll ==> layer.scrollName.content
+ - scrollName.speedX : Number
+ - scrollName.scrollPoint : x, y
+ - scrollName.onScroll ->
+ - print scrillName.velocity
+ - scrollName.onMoving
+ - layerName.html = "text"
+ - scrollName.direction 
+	if scrollName.direction is "down"
+ - scrollName.directionLock = true / false
+ - layerName.rotation = -scroll.angle
+
