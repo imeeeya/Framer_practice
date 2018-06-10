@@ -42,3 +42,20 @@
  - scrollName.directionLock = true / false
  - layerName.rotation = -scroll.angle
 
+10. Scroll example & page component
+ - Add scroll 
+	==> scrArea.parent = scrollName.content
+	==> scrollName = ScrollComponet.wrap(scrArea)
+ - scroll.content.draggable.propagateEvents
+ - Add page
+	==> page.addPage(pageName, "direction") 
+	==> PageName parent:PageCoponemtName.content
+		=> Must define x or y 
+ - repeat(for)
+	==> x: i * horizontal size 
+ - event 	
+	==> "chage: currentPage"
+	==> mypage.on "change:currentPage" , ->
+ 	==> mypage.previousPage.animate
+ - move to page
+	==> pageComponentName.snapToPage(pageName)
