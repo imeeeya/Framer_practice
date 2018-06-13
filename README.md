@@ -59,3 +59,8 @@
  	==> mypage.previousPage.animate
  - move to page
 	==> pageComponentName.snapToPage(pageName)
+
+10_1. Page example
+ - Declare & Implement the function
+ - for..in, if/else if ...
+ - Framer is not good at finding a typing error T.T
