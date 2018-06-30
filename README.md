@@ -64,3 +64,19 @@
  - Declare & Implement the function
  - for..in, if/else if ...
  - Framer is not good at finding a typing error T.T
+
+
+11. pinch
+ - Control scale or rotate object by pinching
+ - Scale
+	==> pinchable.scaleIncrements
+	==> pinchable.scaleFactor
+	==> pincable.minScale / maxScale
+ - Rotation	
+	==> pinchable.rotate 
+	==> pinchable.rotateIncrements
+	==> pinchable.rotateFactor
+ - etc
+	==> pinchable.centerOrigin
+	==> pinchable.threshold
+
