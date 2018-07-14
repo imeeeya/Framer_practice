@@ -80,3 +80,17 @@
 	==> pinchable.centerOrigin
 	==> pinchable.threshold
 
+12. Slider
+ - knob 
+	==> shadow(color, y, x, blur)
+	==> knobSize
+	==> bortderRadius, backgroundColor
+	==> draggable.momentum
+ - fill
+	==> backgroundColor
+ - value
+	==> min, max
+	==> animateToValue(value, {curve})
+ - RangeSlider
+	==> min, max, minValue, maxValue
+
