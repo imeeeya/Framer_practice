@@ -94,3 +94,4 @@
  - RangeSlider
 	==> min, max, minValue, maxValue
 
+
